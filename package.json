@@ -1,0 +1,31 @@
+{
+  "name": "dogstatsy",
+  "version": "0.0.0",
+  "description": "yet another node client for extended StatsD server of Datadog",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=testing mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Runnable/dogstatsy.git"
+  },
+  "keywords": [
+    "Datadog",
+    "DogStatsd"
+  ],
+  "author": "Runnable",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Runnable/dogstatsy/issues"
+  },
+  "homepage": "https://github.com/Runnable/dogstatsy",
+  "dependencies": {
+    "debug": "^0.8.0",
+    "forward-events": "0.0.1",
+    "mersenne-twister": "^1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^1.18.2"
+  }
+}
