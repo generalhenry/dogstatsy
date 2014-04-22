@@ -1,6 +1,6 @@
 {
   "name": "dogstatsy",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "yet another node client for extended StatsD server of Datadog",
   "main": "index.js",
   "scripts": {
