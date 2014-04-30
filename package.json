@@ -21,9 +21,9 @@
   },
   "homepage": "https://github.com/Runnable/dogstatsy",
   "dependencies": {
-    "debug": "^0.8.0",
+    "debug": "~0.8.0",
     "forward-events": "0.0.1",
-    "mersenne-twister": "^1.0.1"
+    "mersenne-twister": "~1.0.1"
   },
   "devDependencies": {
     "mocha": "^1.18.2"
